@@ -1,6 +1,6 @@
 # vega-webcomponent
 
-Usage 
+Usage（Example json from vega)
 ```html
 <vega-chart spec="{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
