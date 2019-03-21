@@ -1,7 +1,7 @@
 # vega-webcomponent
 
 Usage 
-```
+```html
 <vega-chart spec="{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 400,
@@ -96,5 +96,5 @@ Usage
       }
     }
   ]
-}"></vega-chart>>
+}"></vega-chart>
 ```
